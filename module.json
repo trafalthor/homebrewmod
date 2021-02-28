@@ -3,8 +3,9 @@
    "title": "homebrewmod",   
    "description": "Sharing data across worlds",   
    "author": "Uru",
-	"download": "https://github.com/trafalthor/homebrewmod/raw/main/homebrewmod.rar",
-   "version": "1.0.1",
+	"download": "https://github.com/trafalthor/homebrewmod/archive/main.zip",
+   "version": "1.0.0",
+	"manifest": "https://raw.githubusercontent.com/trafalthor/homebrewmod/main/module.json",
    "minimumCoreVersion": "0.5.0",
    "compatibleCoreVersion":"0.7.9",
 
